@@ -14,7 +14,7 @@ class MCFramework extends CMSModule {
 
     public function GetVersion()
     {
-        return '0.0.2';
+        return '0.0.4';
     }
 
     public function GetAuthor()
